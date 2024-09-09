@@ -1,0 +1,31 @@
+body{
+    background: beige;
+}
+form{
+    background: #e6a4a4;
+    width: 320px;
+    margin: 0 auto;
+    padding: 10px 0;
+    border-radius: 16px;
+}
+p{
+    font-size: 28px;
+    text-align: center;
+}
+
+
+input{
+    width: 40px;
+    height: 24px;
+}
+.submit{
+    padding: 10px  22px;
+    font-size: 20px;
+    border-radius: 12px;
+    background: rgb(112, 233, 12);
+    color: rgb(253, 254, 255);
+    
+}
+.main{
+    text-align: center;
+}
